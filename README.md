@@ -1,6 +1,5 @@
 <h2 align="center">Hi, I'm Febri Milansyah</h2>
 <p align="center"><sup>a rookie programmer</p>
-<hr/>
 
 These are the frameworks i can use :
 
@@ -43,12 +42,10 @@ I'm currently exploring :
 
 The most programming language I use on GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmilansyah&hide_title=true&layout=compact&theme=dark#gh-dark-mode-only)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmilansyah&hide_title=true&layout=compact&theme=default#gh-light-mode-only)
 
 And this is my stats on GitHub :
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmilansyah&hide_title=true&show_icons=true&theme=dark#gh-dark-mode-only)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmilansyah&hide_title=true&show_icons=true&theme=default#gh-light-mode-only)
 
 Thank you for visiting
