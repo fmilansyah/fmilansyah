@@ -59,7 +59,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fmilansyah)
 
-**You can contact me on :**
+**Contact me at :**
 
 - [LinkedIn](https://www.linkedin.com/in/fmilansyah/)
 
