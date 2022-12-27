@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Febri Milansyah</h2>
-<p align="center"><sup>a rookie programmer</p>
+<p align="center"><sup>a rookie programmer</sup></p>
 
-**These are the frameworks i can use :**
+**I can use :**
 
 <table>
     <tr>
@@ -15,10 +15,17 @@
             <br />
             NEXT.js
         </td>
+    </tr>
+    <tr>
         <td align="center" width="200">
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="60" />
             <br />
             Laravel
+        </td>
+        <td align="center" width="200">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" height="60" />
+            <br />
+            WordPress
         </td>
     </tr>
 </table>
@@ -40,13 +47,21 @@
     </tr>
 </table>
 
-**The most programming language I use on GitHub**
+**The most programming language I use on GitHub :**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmilansyah&hide_title=true&layout=compact&theme=default#gh-light-mode-only)
 
 **And this is my stats on GitHub :**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmilansyah&hide_title=true&show_icons=true&theme=default#gh-light-mode-only)
+
+**I always try to be consistent**
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fmilansyah)
+
+**You can contact me on :**
+
+- [LinkedIn](https://www.linkedin.com/in/fmilansyah/)
 
 **Thank you for visiting**
 
