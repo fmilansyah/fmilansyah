@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Febri Milansyah</h2>
 <p align="center"><sup>a rookie programmer</p>
 
-These are the frameworks i can use :
+**These are the frameworks i can use :**
 
 <table>
     <tr>
@@ -23,7 +23,7 @@ These are the frameworks i can use :
     </tr>
 </table>
 
-I'm currently exploring :
+**I'm currently exploring :**
 
 <table>
     <tr>
@@ -40,14 +40,14 @@ I'm currently exploring :
     </tr>
 </table>
 
-The most programming language I use on GitHub
+**The most programming language I use on GitHub**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmilansyah&hide_title=true&layout=compact&theme=default#gh-light-mode-only)
 
-And this is my stats on GitHub :
+**And this is my stats on GitHub :**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmilansyah&hide_title=true&show_icons=true&theme=default#gh-light-mode-only)
 
-Thank you for visiting
+**Thank you for visiting**
 
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=fmilansyah.fmilansyah)
