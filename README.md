@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Febri Milansyah</h2>
-<p align="center"><sup>a rookie programmer</sup></p>
+<p align="center"><sup>a rookie web & mobile developer</sup></p>
 
 **I can use :**
 
